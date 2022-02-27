@@ -1,0 +1,4 @@
+[configs]
+env = local
+env-stage-url = https://www.google.com/
+env-local-url = https://www.facebook.com/
